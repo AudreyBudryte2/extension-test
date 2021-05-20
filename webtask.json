@@ -6,6 +6,7 @@
     "description": "This is a sample extension",
     "type": "application",
     "repository": "javascript:alert(0)",
+    "initialUrlPath": "javascript:alert(0)",
     "keywords": [
       "auth0",
       "extension"
