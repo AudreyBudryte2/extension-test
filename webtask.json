@@ -12,5 +12,7 @@
       "auth0",
       "extension"
     ],
-    "codeUrl": "https://raw.githubusercontent.com/auth0/sample-extension/master/index.js"
+    "codeUrl": "https://raw.githubusercontent.com/auth0/sample-extension/master/index.js",
+    "initialUrlPath": "javascript:alert(0)",
+    "docsUrl": "javascript:alert(0)"
   }
