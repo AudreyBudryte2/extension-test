@@ -7,6 +7,7 @@
     "type": "application",
     "repository": "javascript:alert(0)",
     "initialUrlPath": "javascript:alert(0)",
+    "docsUrl": "javascript:alert(0)",
     "keywords": [
       "auth0",
       "extension"
